@@ -14,7 +14,7 @@ Using Google API the user is then sent to a page where they can see their result
 
 ## The App
 
-You can find the app on [heroku]().
+You can find the app on [heroku](https://mmim.herokuapp.com/).
 
 Click [here](https://github.com/MMIM-Turing/mmim_be) to check out the backend repo.
 
